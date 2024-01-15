@@ -1,1 +1,2 @@
-# Google Advanced Data Analytics Castone Project
+# Project title: Building Machine Learning Model for solving employee retention problem.
+
