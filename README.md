@@ -15,3 +15,8 @@ This project uses a dataset called HR_capstone_dataset.csv. It represents 10 col
 The dataset contains:
 14,999 rows – each row is a different employee’s self-reported information and 10 columns such as satisfaction_level, last_evaluation, number_project, average_monthly_hours, time_spend_company, work_accident, left, promotion_last_5years, department, salary.
 First, I checked and then renamed some columns. 
+df0 = df0.rename(columns = {'Work_accident':'work_accident',
+                           'Department':'department',
+                           'time_spend_company':'tenure',
+                           'average_montly_hours':'average_monthly_hours'})
+                           
