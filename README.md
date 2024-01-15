@@ -13,5 +13,4 @@ Next, the leadership team asks me to analyze the survey data and come up with id
 # Data Understanding:
 This project uses a dataset called HR_capstone_dataset.csv. It represents 10 columns of self-reported information from employees of a multinational vehicle manufacturing corporation. 
 The dataset contains:
-14,999 rows – each row is a different employee’s self-reported information and 10 columns
-
+14,999 rows – each row is a different employee’s self-reported information and 10 columns such as satisfaction_level, last_evaluation, number_project, average_monthly_hours, time_spend_company, work_accident, left, promotion_last_5years, department, salary.
