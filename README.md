@@ -11,4 +11,7 @@
 Next, the leadership team asks me to analyze the survey data and come up with ideas for how to increase employee retention. To help with this, they suggest I design a model that predicts whether an employee will leave the company based on their job title, department, number of projects, average monthly hours, and any other relevant data points. A good model will help the company increase retention and job satisfaction for current employees, and save money and time training new employees. 
 
 # Data Understanding:
+This project uses a dataset called HR_capstone_dataset.csv. It represents 10 columns of self-reported information from employees of a multinational vehicle manufacturing corporation. 
+The dataset contains:
+14,999 rows – each row is a different employee’s self-reported information and 10 columns
 
