@@ -16,7 +16,7 @@ The dataset contains:
 14,999 rows – each row is a different employee’s self-reported information and 10 columns such as satisfaction_level, last_evaluation, number_project, average_monthly_hours, time_spend_company, work_accident, left, promotion_last_5years, department, salary.
 First, I checked and then renamed some columns. Work_accident':'work_accident', 'Department':'department','time_spend_company':'tenure',  'average_montly_hours':'average_monthly_hours'.
 Then, I checked for missing values and duplicates. I also created a boxplot to check for outliers in 'tenure' column:
-![Visualization Badge](https://drive.google.com/file/d/1XnKnWjwPi8XQrLY7dgMqiW1xzQt74bKS/view?usp=drive_link)
+![Visualization Badge]([Imgur](https://i.imgur.com/XWrSauG.png))
 
                           
                            
