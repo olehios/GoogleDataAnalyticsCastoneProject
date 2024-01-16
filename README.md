@@ -35,5 +35,11 @@ In the end I created a correlation heatmap.
 ![Correlation Heatmap](https://i.imgur.com/FhCsa30.png)
 
 
-                         
+My insights included following:
+1. Most employees work more than average monthly hours.
+2. People that worked the most hours and had the most projects left.
+3. Also, people that worked below average hours and had low satisfaction levels also left(most probably were fired)
+4. A lot of people who tenured for 4,5,6 years and had low satisfaction levels also left.
+5. Some people who worked for a long time for company still have low level of salary and were not promoted. Among them are a lot of those who left.
                            
+#Modeling and Evaluation 
