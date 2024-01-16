@@ -21,6 +21,12 @@ Then, I checked for missing values and duplicates. I also created a boxplot to c
 ![TenureOutliers](https://i.imgur.com/XWrSauG.png)
 
                           
-                           
+I also created a number of visualisations to see the relationships between variables.
+1. Monthly hours by number of projects(left vs. stayed) and number of projects (left vs. stayed)
+
+   ![MonHoursBoxplot and NumberOfProjects histogram)[https://i.imgur.com/Jtutu6U.png]
+
+
+
                          
                            
