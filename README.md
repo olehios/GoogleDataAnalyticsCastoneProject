@@ -53,5 +53,14 @@ The plot below showed that in this random forest model, 'last_evaluation', 'numb
 
 The model's precisin score was	0.869903,recall score was	0.899598,	accuracy equaled to	0.960974, f1 to	0.884501, AUC was 0.936399.
 All in all, it was stable well - performing final model.
-		
+
+# Conclusion:
+Cap the number of projects that employees can work on.
+Consider promoting employees who have been with the company for at least four years, or conduct further investigation about why four-year tenured employees are so dissatisfied.
+Either reward employees for working longer hours, or don't require them to do so.
+If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations around workload and time off aren't explicit, make them clear.
+Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in specific contexts.
+High evaluation scores should not be reserved for employees who work 200+ hours per month. Consider a proportionate scale for rewarding employees who contribute more/put in more effort.
+![image](https://github.com/olehios/GoogleDataAnalyticsCastoneProject/assets/130646279/3049b0f1-e391-4d71-b3f0-c17d5d725cda)
+
 
