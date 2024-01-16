@@ -51,5 +51,7 @@ The plot below showed that in this random forest model, 'last_evaluation', 'numb
 
 
 
-
+The model's precisin score was	0.869903,recall score was	0.899598,	accuracy equaled to	0.960974, f1 to	0.884501, AUC was 0.936399.
+All in all, it was stable well - performing final model.
+		
 
