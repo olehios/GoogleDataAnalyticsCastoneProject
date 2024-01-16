@@ -42,4 +42,5 @@ My insights included following:
 4. A lot of people who tenured for 4,5,6 years and had low satisfaction levels also left.
 5. Some people who worked for a long time for company still have low level of salary and were not promoted. Among them are a lot of those who left.
                            
-#Modeling and Evaluation 
+# Modeling and Evaluation:
+
