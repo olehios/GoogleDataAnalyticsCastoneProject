@@ -55,12 +55,12 @@ The model's precisin score was	0.869903,recall score was	0.899598,	accuracy equa
 All in all, it was stable well - performing final model.
 
 # Conclusion:
-Cap the number of projects that employees can work on.
-Consider promoting employees who have been with the company for at least four years, or conduct further investigation about why four-year tenured employees are so dissatisfied.
-Either reward employees for working longer hours, or don't require them to do so.
-If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations around workload and time off aren't explicit, make them clear.
-Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in specific contexts.
-High evaluation scores should not be reserved for employees who work 200+ hours per month. Consider a proportionate scale for rewarding employees who contribute more/put in more effort.
-![image](https://github.com/olehios/GoogleDataAnalyticsCastoneProject/assets/130646279/3049b0f1-e391-4d71-b3f0-c17d5d725cda)
+1. Number of projects that employees work on can be decreased.
+2. Promoting employees who have been with the company for at least four years can be helpful, or further research about why four-year tenured employees are so dissatisfied can be done.
+3. Overtime must be rewarded or not required.
+4. Employees should be aware of the company's overtime pay policies, therefore it is advisable to inform them about it. 
+5. Company meetings acroos all personak should be conducted in order to discuss company work policy.
+6. Employees should not be evaluated high only on the basis of having more working hours or more projects. Other features and characteristics should be evaluated, praised and rewarded as well.
+
 
 
