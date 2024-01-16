@@ -43,4 +43,13 @@ My insights included following:
 5. Some people who worked for a long time for company still have low level of salary and were not promoted. Among them are a lot of those who left.
                            
 # Modeling and Evaluation:
+Several models such as binomial logistic regression model, tree based model, and random forest model. As a result of comparison and evaluation of the performance the random forest model waas chosen.
+The plot below showed that in this random forest model, 'last_evaluation', 'number_project', 'tenure', and 'overworked' have the highest importance, in that order. These variables are most helpful in predicting the outcome variable, left.  
+
+
+![RF_Feature_Importance](https://i.imgur.com/wL5fPqJ.png)
+
+
+
+
 
