@@ -27,6 +27,13 @@ I also created a number of visualisations to see the relationships between varia
    ![MonHoursBoxplot and NumberOfProjects histogram](https://i.imgur.com/Jtutu6U.png)
 
 
+It seemed that most employees were overworked. I used boolean mask and value_counts function to see how many people of those who had 7 projects left. 145 people who had 7 projects left.
+
+After that I made a number of other visualisations such as 'Average monthly hours vs. Promotion scatterplot', 'Monthly Hours vs. Last Evaluation scatterplot' etc.
+In the end I created a correlation heatmap.
+
+![Correlation Heatmap](https://i.imgur.com/FhCsa30.png)
+
 
                          
                            
